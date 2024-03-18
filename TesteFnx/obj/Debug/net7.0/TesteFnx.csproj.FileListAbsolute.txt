@@ -1,0 +1,8 @@
+D:\Users\PC\Documents\TesteFnx\TesteFnx\obj\Debug\net7.0\TesteFnx.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\PC\Documents\TesteFnx\TesteFnx\obj\Debug\net7.0\TesteFnx.AssemblyInfoInputs.cache
+D:\Users\PC\Documents\TesteFnx\TesteFnx\obj\Debug\net7.0\TesteFnx.AssemblyInfo.cs
+D:\Users\PC\Documents\TesteFnx\TesteFnx\obj\Debug\net7.0\TesteFnx.csproj.CoreCompileInputs.cache
+D:\Users\PC\Documents\TesteFnx\TesteFnx\obj\Debug\net7.0\TesteFnx.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\PC\Documents\TesteFnx\TesteFnx\obj\Debug\net7.0\TesteFnx.RazorAssemblyInfo.cache
+D:\Users\PC\Documents\TesteFnx\TesteFnx\obj\Debug\net7.0\TesteFnx.RazorAssemblyInfo.cs
+D:\Users\PC\Documents\TesteFnx\TesteFnx\obj\Debug\net7.0\TesteFnx.csproj.AssemblyReference.cache
